@@ -55,7 +55,6 @@ li {
     font-size: 0.875rem;
     margin-bottom: 36px;
   }
-
   &::after {
     content: '';
     width: 40px;
@@ -309,8 +308,6 @@ li {
     font-size: 0.625rem;
   }
 }
-
-
 
 /* ----------mobile---------- */
 @media screen and (max-width: 900px) {
